@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+venv/
+__pycache__/
+
+# System
+.DS_Store
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# Audio files (temp)
+*.mp3
+*.wav
+*.m4a
+downloads/
