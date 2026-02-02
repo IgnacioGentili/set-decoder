@@ -1,6 +1,12 @@
 # Set Decoder
 
+<div align="center">
+
 [![Watch Demo](https://cdn.loom.com/sessions/thumbnails/4285eb6263dd40778ccdebed68f019ae-c30b057baf761225-full-play.gif)](https://www.loom.com/share/4285eb6263dd40778ccdebed68f019ae)
+
+*Click to watch demo*
+
+</div>
 
 Identify tracks in DJ sets automatically using audio recognition. Paste a YouTube or SoundCloud URL and get a full tracklist with streaming links.
 
